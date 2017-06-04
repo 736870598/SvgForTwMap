@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="map_color" translatable="false">
+        <item>#F1F1A2</item>
+        <item>#FAF569</item>
+        <item>#FFFF26</item>
+        <item>#FFB700</item>
+        <item>#FF5500</item>
+        <item>#F7057A</item>
+        <item>#F007E4</item>
+        <item>#A10EE6</item>
+        <item>#5D18C9</item>
+        <item>#071DAD</item>
+    </string-array>
+
+    <string-array name="map_color1" translatable="false">
+        <!--<item>#FAF569</item>-->
+        <!--<item>#FF5500</item>-->
+        <!--<item>#A10EE6</item>-->
+        <!--<item>#071DAD</item>-->
+        <item>#F1F1A2</item>
+        <item>#FAF569</item>
+        <item>#FFFF26</item>
+        <item>#FFB700</item>
+    </string-array>
+
+
+</resources>
